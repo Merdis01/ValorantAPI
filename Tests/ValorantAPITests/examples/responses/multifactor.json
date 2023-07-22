@@ -1,0 +1,14 @@
+{
+	"type": "multifactor",
+	"multifactor": {
+		"email": "jul**@****.com",
+		"method": "email",
+		"methods": [
+			"email"
+		],
+		"multiFactorCodeLength": 6,
+		"mfaVersion": "v2"
+	},
+	"country": "che",
+	"securityProfile": "low"
+}

@@ -1,0 +1,10 @@
+{
+	"type": "response",
+	"response": {
+		"mode": "fragment",
+		"parameters": {
+			"uri": "https://playvalorant.com/#access_token=ACCESS_TOKEN.eyJzdWIiOiAiM2ZhODU5OGQtMDY2ZS01YmRiLTk5OGMtNzRjMDE1YzVkYmE1In0&scope=account+openid&iss=https%3A%2F%2Fauth.riotgames.com&id_token=ID_TOKEN&token_type=Bearer&expires_in=3600"
+		}
+	},
+	"country": "che"
+}

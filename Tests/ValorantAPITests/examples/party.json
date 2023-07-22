@@ -1,0 +1,192 @@
+{
+	"ID": "57837ba2-675f-4c5f-955a-11f4ab040795",
+	"MUCName": "57837ba2-675f-4c5f-955a-11f4ab040795@ares-parties.eu2.pvp.net",
+	"VoiceRoomID": "57837ba2-675f-4c5f-955a-11f4ab040795-pty",
+	"Version": 1644276354694,
+	"ClientVersion": "release-04.02-shipping-8-664109",
+	"Members": [
+		{
+			"Subject": "3fa8598d-066e-5bdb-998c-74c015c5dba5",
+			"CompetitiveTier": 0,
+			"PlayerIdentity": {
+				"Subject": "3fa8598d-066e-5bdb-998c-74c015c5dba5",
+				"PlayerCardID": "546c9535-4671-e7cf-d5f9-1b90e3e2d7e4",
+				"PlayerTitleID": "184e2e0d-4df5-2979-9bb0-93b102cf38fd",
+				"AccountLevel": 149,
+				"PreferredLevelBorderID": "00000000-0000-0000-0000-000000000000",
+				"Incognito": false,
+				"HideAccountLevel": false
+			},
+			"SeasonalBadgeInfo": {
+				"SeasonID": "a16955a5-4ad0-f761-5e9e-389df1c892fb",
+				"NumberOfWins": 0,
+				"WinsByTier": null,
+				"Rank": 0,
+				"LeaderboardRank": 0
+			},
+			"IsOwner": true,
+			"QueueEligibleRemainingAccountLevels": 0,
+			"Pings": [
+				{
+					"Ping": 105,
+					"GamePodID": "aresriot.aws-rclusterprod-mes1-1.eu-gp-bahrain-awsedge-1"
+				},
+				{
+					"Ping": 58,
+					"GamePodID": "aresriot.aws-rclusterprod-mad1-1.eu-gp-madrid-1"
+				},
+				{
+					"Ping": 59,
+					"GamePodID": "aresriot.mtl-riot-ist1-2.eu-gp-istanbul-1"
+				},
+				{
+					"Ping": 40,
+					"GamePodID": "aresriot.aws-rclusterprod-euw2-1.eu-gp-london-awsedge-1"
+				},
+				{
+					"Ping": 300,
+					"GamePodID": "aresriot.aws-rclusterprod-apne1-1.eu-gp-tokyo-1"
+				},
+				{
+					"Ping": 48,
+					"GamePodID": "aresriot.aws-rclusterprod-waw1-1.eu-gp-warsaw-1"
+				},
+				{
+					"Ping": 28,
+					"GamePodID": "aresriot.aws-rclusterprod-euc1-1.eu-gp-frankfurt-1"
+				},
+				{
+					"Ping": 31,
+					"GamePodID": "aresriot.aws-rclusterprod-euw3-1.eu-gp-paris-1"
+				},
+				{
+					"Ping": 52,
+					"GamePodID": "aresriot.aws-rclusterprod-eun1-1.eu-gp-stockholm-1"
+				}
+			],
+			"IsReady": true,
+			"IsModerator": false,
+			"UseBroadcastHUD": false,
+			"PlatformType": "PC"
+		},
+		{
+			"Subject": "e6d1a89f-0b40-5f94-a0e5-99a3b6158a03",
+			"CompetitiveTier": 0,
+			"PlayerIdentity": {
+				"Subject": "e6d1a89f-0b40-5f94-a0e5-99a3b6158a03",
+				"PlayerCardID": "a60742e6-418c-365a-9133-7c8e08720bfa",
+				"PlayerTitleID": "c4285636-4056-8c21-b0d1-55867e74c98f",
+				"AccountLevel": 87,
+				"PreferredLevelBorderID": "00000000-0000-0000-0000-000000000000",
+				"Incognito": false,
+				"HideAccountLevel": false
+			},
+			"SeasonalBadgeInfo": {
+				"SeasonID": "a16955a5-4ad0-f761-5e9e-389df1c892fb",
+				"NumberOfWins": 10,
+				"WinsByTier": {
+					"16": 10
+				},
+				"Rank": 16,
+				"LeaderboardRank": 0
+			},
+			"QueueEligibleRemainingAccountLevels": 0,
+			"Pings": [
+				{
+					"Ping": 20,
+					"GamePodID": "aresriot.aws-rclusterprod-euw2-1.eu-gp-london-awsedge-1"
+				},
+				{
+					"Ping": 13,
+					"GamePodID": "aresriot.aws-rclusterprod-euw3-1.eu-gp-paris-1"
+				},
+				{
+					"Ping": 40,
+					"GamePodID": "aresriot.mtl-riot-ist1-2.eu-gp-istanbul-1"
+				},
+				{
+					"Ping": 30,
+					"GamePodID": "aresriot.aws-rclusterprod-eun1-1.eu-gp-stockholm-1"
+				},
+				{
+					"Ping": 270,
+					"GamePodID": "aresriot.aws-rclusterprod-apne1-1.eu-gp-tokyo-1"
+				},
+				{
+					"Ping": 29,
+					"GamePodID": "aresriot.aws-rclusterprod-waw1-1.eu-gp-warsaw-1"
+				},
+				{
+					"Ping": 79,
+					"GamePodID": "aresriot.aws-rclusterprod-mes1-1.eu-gp-bahrain-awsedge-1"
+				},
+				{
+					"Ping": 9,
+					"GamePodID": "aresriot.aws-rclusterprod-euc1-1.eu-gp-frankfurt-1"
+				},
+				{
+					"Ping": 39,
+					"GamePodID": "aresriot.aws-rclusterprod-mad1-1.eu-gp-madrid-1"
+				}
+			],
+			"IsReady": true,
+			"IsModerator": false,
+			"UseBroadcastHUD": false,
+			"PlatformType": "PC"
+		}
+	],
+	"State": "MATCHMAKING",
+	"PreviousState": "STARTING_MATCHMAKING",
+	"StateTransitionReason": "NONE",
+	"Accessibility": "CLOSED",
+	"CustomGameData": {
+		"Settings": {
+			"Map": "",
+			"Mode": "",
+			"UseBots": false,
+			"GamePod": "",
+			"GameRules": null
+		},
+		"Membership": {
+			"teamOne": null,
+			"teamTwo": null,
+			"teamSpectate": null,
+			"teamOneCoaches": null,
+			"teamTwoCoaches": null
+		},
+		"MaxPartySize": 0,
+		"AutobalanceEnabled": false,
+		"AutobalanceMinPlayers": 0
+	},
+	"MatchmakingData": {
+		"QueueID": "unrated",
+		"PreferredGamePods": [
+			"aresriot.aws-rclusterprod-euc1-1.eu-gp-frankfurt-1",
+			"aresriot.aws-rclusterprod-euc1-1.eu-gp-frankfurt-awsedge-1",
+			"aresriot.aws-rclusterprod-euw3-1.eu-gp-paris-awsedge-1",
+			"aresriot.aws-rclusterprod-euw3-1.eu-gp-paris-1",
+			"aresriot.aws-rclusterprod-euw2-1.eu-gp-london-awsedge-1"
+		],
+		"SkillDisparityRRPenalty": 0
+	},
+	"Invites": null,
+	"Requests": [],
+	"QueueEntryTime": "2022-02-07T23:25:54.68379114Z",
+	"ErrorNotification": {
+		"ErrorType": "",
+		"ErroredPlayers": null
+	},
+	"RestrictedSeconds": 0,
+	"EligibleQueues": [
+		"unrated",
+		"spikerush",
+		"deathmatch",
+		"ggteam"
+	],
+	"QueueIneligibilities": [],
+	"CheatData": {
+		"GamePodOverride": "",
+		"ForcePostGameProcessing": false
+	},
+	"XPBonuses": []
+}

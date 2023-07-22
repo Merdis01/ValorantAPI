@@ -1,0 +1,5 @@
+{
+	"httpStatus": 404,
+	"errorCode": "RESOURCE_NOT_FOUND",
+	"message": "resource not found"
+}
